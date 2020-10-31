@@ -21,6 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://jasoneb.github.io/happyBirthdayDrMiguel/",
   "eslintConfig": {
     "extends": [
       "react-app",
