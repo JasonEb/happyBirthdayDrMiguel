@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/happyBirthdayDrMiguel/static/css/main.9acf89fd.chunk.css",
+    "main.js": "/happyBirthdayDrMiguel/static/js/main.f9891793.chunk.js",
+    "main.js.map": "/happyBirthdayDrMiguel/static/js/main.f9891793.chunk.js.map",
+    "runtime-main.js": "/happyBirthdayDrMiguel/static/js/runtime-main.958b5ca2.js",
+    "runtime-main.js.map": "/happyBirthdayDrMiguel/static/js/runtime-main.958b5ca2.js.map",
+    "static/js/2.7ddc4635.chunk.js": "/happyBirthdayDrMiguel/static/js/2.7ddc4635.chunk.js",
+    "static/js/2.7ddc4635.chunk.js.map": "/happyBirthdayDrMiguel/static/js/2.7ddc4635.chunk.js.map",
+    "static/js/3.b0822e4d.chunk.js": "/happyBirthdayDrMiguel/static/js/3.b0822e4d.chunk.js",
+    "static/js/3.b0822e4d.chunk.js.map": "/happyBirthdayDrMiguel/static/js/3.b0822e4d.chunk.js.map",
+    "index.html": "/happyBirthdayDrMiguel/index.html",
+    "static/css/main.9acf89fd.chunk.css.map": "/happyBirthdayDrMiguel/static/css/main.9acf89fd.chunk.css.map",
+    "static/js/2.7ddc4635.chunk.js.LICENSE.txt": "/happyBirthdayDrMiguel/static/js/2.7ddc4635.chunk.js.LICENSE.txt",
+    "static/media/01.7311297c.png": "/happyBirthdayDrMiguel/static/media/01.7311297c.png",
+    "static/media/02.55c5c4f0.png": "/happyBirthdayDrMiguel/static/media/02.55c5c4f0.png",
+    "static/media/03.01f90092.png": "/happyBirthdayDrMiguel/static/media/03.01f90092.png",
+    "static/media/04.8c5c0b8d.png": "/happyBirthdayDrMiguel/static/media/04.8c5c0b8d.png",
+    "static/media/05.8faa5d46.png": "/happyBirthdayDrMiguel/static/media/05.8faa5d46.png",
+    "static/media/06.e776fd34.png": "/happyBirthdayDrMiguel/static/media/06.e776fd34.png",
+    "static/media/07.aacdd885.png": "/happyBirthdayDrMiguel/static/media/07.aacdd885.png",
+    "static/media/08.84ca2352.png": "/happyBirthdayDrMiguel/static/media/08.84ca2352.png",
+    "static/media/09.92007d0b.png": "/happyBirthdayDrMiguel/static/media/09.92007d0b.png",
+    "static/media/10.ae84eac3.png": "/happyBirthdayDrMiguel/static/media/10.ae84eac3.png",
+    "static/media/cake.7b701b7f.svg": "/happyBirthdayDrMiguel/static/media/cake.7b701b7f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958b5ca2.js",
+    "static/js/2.7ddc4635.chunk.js",
+    "static/css/main.9acf89fd.chunk.css",
+    "static/js/main.f9891793.chunk.js"
+  ]
+}
