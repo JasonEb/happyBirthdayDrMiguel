@@ -18,19 +18,19 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Happy Birthday mike!
+          Happy Birthday Mike 😊!
         </p>
       </header>
-      <img src={pic1}/>
-      <img src={pic2}/>
-      <img src={pic3}/>
-      <img src={pic4}/>
-      <img src={pic5}/>
-      <img src={pic6}/>
-      <img src={pic7}/>
-      <img src={pic8}/>
-      <img src={pic9}/>
-      <img src={pic10}/>
+      <img alt="he is so content" src={pic1}/>
+      <img alt="braces nightmare" src={pic2}/>
+      <img alt="balla samurai mike" src={pic3}/>
+      <img alt="making it rain" src={pic4}/>
+      <img alt="jason got lazy" src={pic5}/>
+      <img alt="rice farmer mike" src={pic6}/>
+      <img alt="up mike" src={pic7}/>
+      <img alt="deflated mike" src={pic8}/>
+      <img alt="the tooter" src={pic9}/>
+      <img alt="dropped" src={pic10}/>
     </div>
   );
 }
