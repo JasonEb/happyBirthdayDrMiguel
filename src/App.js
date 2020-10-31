@@ -11,8 +11,19 @@ import pic9 from './hbd/09.png'
 import pic6 from './hbd/06.png'
 import pic7 from './hbd/07.png'
 import pic10 from './hbd/10.png'
+import useSound from 'use-sound'
+
+import hbdSong from './hbd.mp3'
+import {useEffect} from 'react'
+
 
 function App() {
+  const [play] = useSound(hbdSong);
+
+  useEffect(() => {
+    play()
+  }, [play])
+
   return (
     <div className="App">
       <header className="App-header">
